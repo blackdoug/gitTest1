@@ -6,4 +6,5 @@ merged test
 hotfix5
 rebase master
 fastforward
+rebase
 
