@@ -2,9 +2,5 @@
 2
 3
 5
-merged test
-hotfix5
-rebase master
-fastforward
-rebase
+c3
 
