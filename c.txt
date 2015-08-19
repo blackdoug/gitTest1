@@ -1,1 +1,2 @@
 feature B doug
+feature B2 doug
