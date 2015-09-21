@@ -1,4 +1,2 @@
-conflict master 2
-update one file
-conflict develop2
+cherry pick
 
