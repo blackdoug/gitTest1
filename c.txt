@@ -1,2 +1,3 @@
-double dot
+git add -i
+git add -i 3
 
